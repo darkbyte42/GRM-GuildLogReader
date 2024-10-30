@@ -498,7 +498,6 @@
 498) 28 Oct '24 04:47am : Valkratoss has JOINED the guild! (LVL: 55) - Invited By: Fufty;
 499) 28 Oct '24 04:47pm : Zopperdopper has Leveled to 26 (+1 level);
 500) 28 Oct '24 04:47pm : Zombyblst has Leveled to 30 (+2 levels);
-
 501) 28 Oct '24 04:47pm : Zflexx has Leveled to 24 (+2 levels);
 502) 28 Oct '24 04:47pm : Wolfstorm has Leveled to 24 (+2 levels);
 503) 28 Oct '24 04:47pm : Waviest has Leveled to 20 (+3 levels);
@@ -999,7 +998,6 @@
 998) 27 Oct '24 01:11am : Byterate PROMOTED Alfen from Skullsplitter to Blood Guard;
 999) 27 Oct '24 01:10am : Byterate DEMOTED Kendoyler from Grunt to Scout;
 1000) 27 Oct '24 01:10am : Byterate DEMOTED Jigheals from Grunt to Scout;
-
 1001) 27 Oct '24 01:10am : Quiknature has JOINED the guild! (LVL: 6) - Invited By: Fufty;
 1002) 27 Oct '24 01:09am : Mokrashdeath has JOINED the guild! (LVL: 46) - Invited By: Tanzalari;
 1003) 27 Oct '24 01:07am : Zibarazzabi has Leveled to 10 (+1 level);
@@ -1500,7 +1498,6 @@
 1498) 25 Oct '24 02:03pm : Lawsonitus has Leveled to 27 (+1 level);
 1499) 25 Oct '24 01:59pm : Zombyblst has Leveled to 20 (+1 level);
 1500) 25 Oct '24 01:59pm : Wärchiefzëñ PROMOTED Zopperdopper from Peon to Scout;
-
 1501) 25 Oct '24 01:59pm : Wärchiefzëñ PROMOTED Zombieroar from Peon to Scout;
 1502) 25 Oct '24 01:58pm : Wärchiefzëñ PROMOTED Wreckinlokhc from Scout to Grunt;
 1503) 25 Oct '24 01:58pm : Wärchiefzëñ PROMOTED Zibarazzabi from Peon to Scout;
@@ -2001,7 +1998,6 @@
 1998) 23 Oct '24 07:36pm : Slamtheclam has Leveled to 23 (+1 level);
 1999) 23 Oct '24 07:36pm : Gulanti has Leveled to 12 (+1 level);
 2000) 23 Oct '24 07:35pm : Ribberson has Leveled to 26 (+1 level);
-
 2001) 23 Oct '24 07:33pm : Imsosadrn has Leveled to 25 (+1 level);
 2002) 23 Oct '24 07:32pm : Daddyvexxy has Leveled to 26 (+1 level);
 2003) 23 Oct '24 07:26pm : Beastress has Leveled to 42 (+1 level);
@@ -2502,7 +2498,6 @@
 2498) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Slarptoad from Scout to Grunt;
 2499) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Saveyourself from Scout to Grunt;
 2500) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Tuzki from Peon to Scout;
-
 2501) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Suzyq from Scout to Grunt;
 2502) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Scoopslam from Scout to Grunt;
 2503) 21 Oct '24 06:33pm : Wärchiefzëñ PROMOTED Sstrom from Peon to Scout;
@@ -3003,7 +2998,6 @@
 2998) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Khilium from Scout to Grunt;
 2999) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Jarlaxl from Peon to Scout;
 3000) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Kaglu from Peon to Scout;
-
 3001) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Ize from Scout to Grunt;
 3002) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Jackolope from Peon to Scout;
 3003) 19 Oct '24 01:05pm : Wärchiefzëñ PROMOTED Ididntdothat from Scout to Grunt;
@@ -3504,7 +3498,6 @@
 3498) 16 Oct '24 09:54pm : Slarptoad matches 1 macro tool rule. Promotion Recommended!;
 3499) 16 Oct '24 09:54pm : Scoopslam matches 1 macro tool rule. Promotion Recommended!;
 3500) 16 Oct '24 09:54pm : Saveyourself matches 1 macro tool rule. Promotion Recommended!;
-
 3501) 16 Oct '24 09:54pm : Quartcourt matches 1 macro tool rule. Promotion Recommended!;
 3502) 16 Oct '24 09:54pm : Puffeen matches 1 macro tool rule. Promotion Recommended!;
 3503) 16 Oct '24 09:54pm : Penticton matches 1 macro tool rule. Promotion Recommended!;
@@ -4005,7 +3998,6 @@
 3998) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Yusar from Peon to Scout;
 3999) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Wildshifts from Peon to Scout;
 4000) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Wundead from Peon to Scout;
-
 4001) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Vosterfo from Peon to Scout;
 4002) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Villainv from Scout to Grunt;
 4003) 13 Oct '24 12:10pm : Wärchiefzëñ PROMOTED Velandal from Peon to Scout;
@@ -4506,7 +4498,6 @@
 4498) 09 Oct '24 03:28pm : Borghul matches 1 macro tool rule. Promotion Recommended!;
 4499) 09 Oct '24 03:28pm : Automayte matches 1 macro tool rule. Promotion Recommended!;
 4500) 09 Oct '24 12:14am : Toolu has Leveled to 20 (+1 level);
-
 4501) 09 Oct '24 12:13am : Peerleaderkt has Leveled to 37 (+1 level);
 4502) 08 Oct '24 10:10pm : Scoobÿdoo is no longer in the Guild! (LVL: 18);ALTS IN GUILD: Wannaße;Player's Main: Wannaße;Time as Member: 10 days;Public Note:  [Herb]75/[Alc]76;
 4503) 08 Oct '24 08:10pm : Hogmager is no longer in the Guild! (LVL: 13);Time as Member: 2 days;Public Note:  [Ench]1/[TL]37;
@@ -5007,7 +4998,6 @@
 4998) 05 Oct '24 11:36pm : Esayel has Leveled to 10 (+1 level);
 4999) 05 Oct '24 11:34pm : Bonkmango has JOINED the guild! (LVL: 20) - Invited By: Fufty;
 5000) 05 Oct '24 11:15pm : Totamica has Leveled to 18 (+1 level);
-
 5001) 05 Oct '24 11:14pm : Ghostfarts has JOINED the guild! (LVL: 23) - Invited By: Ghostbyte;
 5002) 05 Oct '24 11:08pm : Etelle has Leveled to 28 (+1 level);
 5003) 05 Oct '24 11:02pm : Pewhealz has Leveled to 29 (+1 level);
@@ -5508,7 +5498,6 @@
 5498) 01 Oct '24 04:26pm : Wärchiefzëñ PROMOTED Ghostbyte from Peon to Scout;
 5499) 01 Oct '24 04:26pm : Wärchiefzëñ PROMOTED Durtsham from Peon to Scout;
 5500) 01 Oct '24 04:26pm : Wärchiefzëñ PROMOTED Dumbquesting from Peon to Scout;
-
 5501) 01 Oct '24 04:26pm : Wärchiefzëñ PROMOTED Bessietta from Peon to Scout;
 5502) 01 Oct '24 04:22pm : Zinkill matches 1 macro tool rule. Promotion Recommended!;
 5503) 01 Oct '24 04:22pm : Snîpe matches 1 macro tool rule. Promotion Recommended!;
@@ -6009,7 +5998,6 @@
 5998) 29 Sep '24 06:04am : Demonicûs matches 1 macro tool rule. Promotion Recommended!;
 5999) 29 Sep '24 06:04am : Colommil matches 1 macro tool rule. Promotion Recommended!;
 6000) 29 Sep '24 06:04am : Chrismurray matches 1 macro tool rule. Promotion Recommended!;
-
 6001) 29 Sep '24 06:04am : Bumboclaatt matches 1 macro tool rule. Promotion Recommended!;
 6002) 29 Sep '24 06:04am : Buggisue matches 1 macro tool rule. Promotion Recommended!;
 6003) 29 Sep '24 06:04am : Budermyutter matches 1 macro tool rule. Promotion Recommended!;
@@ -6510,7 +6498,6 @@
 6498) 26 Sep '24 09:22pm : Ggnoré has Leveled to 26 (+1 level);
 6499) 26 Sep '24 09:22pm : Frostah has Leveled to 21 (+1 level);
 6500) 26 Sep '24 09:22pm : Damageplus (M) has Leveled to 16 (+2 levels);
-
 6501) 26 Sep '24 09:22pm : Automatix has Leveled to 24 (+1 level);
 6502) 26 Sep '24 09:22pm : Andrisca has Leveled to 18 (+1 level);
 6503) 26 Sep '24 06:31pm : Tarzulka has Leveled to 23 (+1 level);
@@ -7011,7 +6998,6 @@
 6998) 21 Sep '24 04:58pm : Damageplus's PUBLIC Note: "blacksmith/mining" was Added;
 6999) 21 Sep '24 04:57pm : Stunbanks's PUBLIC Note: "free bags" was Added;
 7000) 21 Sep '24 04:51pm : Yazzmar has Leveled to 23 (+1 level);
-
 7001) 21 Sep '24 04:49pm : Stunbanks has JOINED the guild! (LVL: 1) - Invited By: Shadowbyte;
 7002) 21 Sep '24 04:44pm : Damageplus has JOINED the guild! (LVL: 15) - Invited By: Byterate;
 7003) 21 Sep '24 04:30pm : Dusturgan has JOINED the guild! (LVL: 11) - Invited By: Frõstbyte;
@@ -7512,7 +7498,6 @@
 7498) 13 Sep '24 09:13pm : Vazak has JOINED the guild! (LVL: 7) - Invited By: Frõstbyte;
 7499) 13 Sep '24 09:13pm : Jimbyjumby has JOINED the guild! (LVL: 7) - Invited By: Frõstbyte;
 7500) 13 Sep '24 09:13pm : Smashgarz has JOINED the guild! (LVL: 6) - Invited By: Frõstbyte;
-
 7501) 13 Sep '24 09:13pm : Steath has JOINED the guild! (LVL: 9) - Invited By: Frõstbyte;
 7502) 13 Sep '24 09:13pm : Wildshapes has JOINED the guild! (LVL: 6) - Invited By: Frõstbyte;
 7503) 13 Sep '24 09:13pm : Bigpôppa has JOINED the guild! (LVL: 6) - Invited By: Frõstbyte;
